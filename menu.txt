@@ -1,0 +1,96 @@
+Dessert
+Belgian waffles
+6
+Dessert
+Pecan Pie
+4
+Appetizer
+Greek Salad
+10
+Appetizer
+Caesar Salad
+8.5
+Appetizer
+Shrimp
+8
+Dessert
+Ice Cream, Two Scoops
+6
+Dessert
+Creme Brulee
+6
+Appetizer
+Fried Zucchini
+7.5
+Appetizer
+Oysters
+15
+Dessert
+Lemon Crumble
+5.75
+Appetizer
+Garlic Bread
+4
+Appetizer
+Focaccia
+5
+Appetizer
+Smoked Samon
+7
+Appetizer
+Beef Carpaccio
+7.25
+Drink
+Carbonated Drink
+2
+Drink
+No-Sugar Carbonated Drink
+2
+Drink
+Juice (Orange/Carrot/Grapefruit/Lemon)
+2
+Drink
+Beer (330 ml.)
+3.5
+Drink
+Beer (650 ml.)
+5.15
+Drink
+Wine (250 ml.)
+6
+Drink
+Coffee (Espresso/cappuccino)
+3.5
+Drink
+Tea
+2.5
+Dessert
+Tiramisu
+7
+Main
+Grilled Salmon Fillet
+15
+Main
+Smoked Beef Chops
+18
+Main
+Sea Bass Fillet
+16
+Main
+Pork Fillet
+13.5
+Main
+Baby Lamb
+18.75
+Main
+Beefburger
+13
+Main
+Cheeseburger
+14.25
+Main
+Steak Entrecote
+18
+Main
+Sauteed Beef Fillet
+20.25
